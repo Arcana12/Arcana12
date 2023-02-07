@@ -27,12 +27,15 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 
 <div align=center>
 
-[![DAEIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcana12&theme=dark)](https://github.com/Arcana12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcana12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DAEIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcana12&theme=city_lights)](https://github.com/Arcana12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcana12&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
